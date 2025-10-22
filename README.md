@@ -68,4 +68,3 @@ python ecommerce_cart.py
 ---
 
 *Happy coding!* 🚀
-```
